@@ -35,19 +35,25 @@ CropGuard is an **AI-powered crop disease detection system** that analyzes crop 
 ## 📂 Project Structure
 
 ```text
-backend/
-│── app/
-│   ├── api/
-│   │   ├── routes.py
-│   │   ├── schemas.py
-│   ├── services/
-│   │   ├── gemini_client.py
-│   │   ├── image_processing.py
-|   |   ├── voice_service.py
-│   ├── main.py # FastAPI app + endpoints
-│── .env
-│── requirements.txt
-│── README.md
+
+CropGuard-AI/
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── routes.py
+│   │   │   └── schemas.py
+│   │   ├── services/
+│   │   │   ├── gemini_client.py
+│   │   │   ├── image_processing.py
+│   │   │   └── voice_service.py
+│   │   ├── main.py    # FastAPI app + endpoints
+|   |   └── .gitignore 
+│
+├── frontend/
+│   
+├── .env
+├── requirements.txt
+└── README.md
 ```
 
 ---
