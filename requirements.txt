@@ -1,0 +1,15 @@
+fastapi
+python-multipart
+pillow
+python-dotenv
+opencv-python
+uvicorn[standard]
+requests
+gTTS
+aiofiles
+pydantic
+pytest
+httpx
+google-generativeai
+google-genai
+google-cloud-texttospeech
