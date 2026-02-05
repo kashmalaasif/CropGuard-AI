@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?logo=swagger"/>
   <img src="https://img.shields.io/badge/Dotenv-Environment-yellow"/>
 </p>
+
 **Event:** DevLaunch Hackathon 2026 (WPBrigade × iCodeGuru)
 
 CropGuard is a multi-modal AI-powered system designed to assist traditional farmers by detecting crop diseases from leaf images and providing **spoken Urdu guidance**. The platform leverages state-of-the-art **computer vision, natural language processing, and speech synthesis** to make advanced agricultural intelligence accessible to non-technical users.
@@ -318,6 +319,8 @@ Model fine-tuning on local Pakistani crops
 | Moneka Meghwar    | Backend Developer, API Integration      | [https://github.com/mmoneka11](https://github.com/mmoneka11)         |
 | Kashmala Saddiqui | Documentation Lead,API Integrate Support| [https://github.com/kashmalaasif](https://github.com/kashmalaasif)   |
 | Osama             | Streamlit Integrator / Developer        | [https://github.com/Osama2321](https://github.com/Osama2321)         |
+---
+## 📜 License
 
-
+This project is licensed under the MIT License.
 ✨ Built with ❤️ for smart agriculture
