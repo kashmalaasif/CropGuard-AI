@@ -323,4 +323,5 @@ Model fine-tuning on local Pakistani crops
 ## 📜 License
 
 This project is licensed under the MIT License.
+---
 ✨ Built with ❤️ for smart agriculture
