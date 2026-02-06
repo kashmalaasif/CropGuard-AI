@@ -67,20 +67,15 @@ Watch the complete demo of **CropGuard – AI-Powered Crop Disease Dignosis**:
 | AI Layer | Gemini Flash 3 (Vision) + Gemini NLP + Google Voice API |
 
 ### AI Processing Flow
-```text
-Crop Image Upload
-↓
-Gemini Flash 3 (Vision Model)
-↓
-English Diagnosis
-↓
-Gemini Translation API
-↓
-Urdu Text
-↓
-Google Voice API
-↓
-Urdu Voice Output for Farmer
+
+```mermaid
+graph TD
+    A[Crop Image Upload] --> B[Gemini Flash 3 Vision Mode]
+    B --> C[ Disease Diagnosis]
+    C --> D[Gemini Translation API]
+    D --> E[Urdu Text]
+    E --> F[Google Voice API]
+    F --> G[Urdu Voice Output for Farmer]
 ```
 
 This makes CropGuard a **fully multi-modal AI pipeline**:  
