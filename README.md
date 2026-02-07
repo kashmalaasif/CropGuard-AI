@@ -328,7 +328,7 @@ Hackathon-grade innovation
 | Hanif Ullah       | Team Lead, Frontend Developer           | [https://github.com/hanifullah313](https://github.com/hanifullah313) |
 | Moneka Meghwar    | Backend Developer, API Integration      | [https://github.com/mmoneka11](https://github.com/mmoneka11)         |
 | Kashmala Saddiqui | Documentation Lead,API Integrate Support| [https://github.com/kashmalaasif](https://github.com/kashmalaasif)   |
-| Osama             | Streamlit Integrator / Developer        | [https://github.com/Osama2321](https://github.com/Osama2321)         |
+
 ---
 ## 📜 License
 
